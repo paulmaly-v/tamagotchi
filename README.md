@@ -1,4 +1,3 @@
-My tamagotchi project
 To run tamagotchi
 * clone this repository
 * switch into the game folder
