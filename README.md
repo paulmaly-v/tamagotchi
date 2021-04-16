@@ -1,5 +1,5 @@
-#My tamagotchi project
-##To run tamagotchi
+My tamagotchi project
+To run tamagotchi
 * clone this repository
 * switch into the game folder
 * make an environment (run "python3 -m venv env")
